@@ -1,6 +1,6 @@
 # Webpack Starter
 
-Este es el repositortio inicial para crear aplicaciones utilizando WebPack. Esto es una prueba de actualización. 
+Este es el repositortio inicial para crear aplicaciones utilizando WebPack.
 
 ### Notas:
 
